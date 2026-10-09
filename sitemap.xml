@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://metur100.github.io/Shadow.Runner.Landing/</loc>
+    <lastmod>2026-10-09</lastmod>
+    <image:image><image:loc>https://metur100.github.io/Shadow.Runner.Landing/assets/og-image.jpg</image:loc></image:image>
+    <image:image><image:loc>https://metur100.github.io/Shadow.Runner.Landing/assets/icon-512.png</image:loc></image:image>
+    <image:image><image:loc>https://metur100.github.io/Shadow.Runner.Landing/assets/phone/01-switch-worlds.webp</image:loc></image:image>
+    <image:image><image:loc>https://metur100.github.io/Shadow.Runner.Landing/assets/phone/02-light.webp</image:loc></image:image>
+    <image:image><image:loc>https://metur100.github.io/Shadow.Runner.Landing/assets/phone/03-cross-world.webp</image:loc></image:image>
+    <image:image><image:loc>https://metur100.github.io/Shadow.Runner.Landing/assets/phone/04-neon.webp</image:loc></image:image>
+    <image:image><image:loc>https://metur100.github.io/Shadow.Runner.Landing/assets/phone/05-eclipse.webp</image:loc></image:image>
+    <image:image><image:loc>https://metur100.github.io/Shadow.Runner.Landing/assets/phone/06-temple.webp</image:loc></image:image>
+    <image:image><image:loc>https://metur100.github.io/Shadow.Runner.Landing/assets/phone/07-worlds.webp</image:loc></image:image>
+    <image:image><image:loc>https://metur100.github.io/Shadow.Runner.Landing/assets/phone/08-collection.webp</image:loc></image:image>
+  </url>
+  <url><loc>https://metur100.github.io/Shadow.Runner.Landing/privacy.html</loc><lastmod>2026-10-09</lastmod></url>
+  <url><loc>https://metur100.github.io/Shadow.Runner.Landing/terms.html</loc><lastmod>2026-10-09</lastmod></url>
+</urlset>
