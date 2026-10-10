@@ -1,7 +1,7 @@
-# Shadow Runner – website
+# Twinshade – website
 
 Landing page, support page, privacy policy and terms of use for the mobile game
-**Shadow Runner: Two Worlds** by Medin Turkes. Plain static HTML/CSS/JS, hosted on GitHub Pages.
+**Twinshade: Two Worlds Runner** by Medin Turkes. Plain static HTML/CSS/JS, hosted on GitHub Pages.
 
 - Live: https://metur100.github.io/Shadow.Runner.Landing/
 - Privacy policy (for Google Play / App Store Connect): https://metur100.github.io/Shadow.Runner.Landing/privacy.html
